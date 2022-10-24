@@ -1,0 +1,14 @@
+:root{
+    --base-laranja: #e36a13
+}
+
+#logo {
+    background-color: #f76a04d1;
+    position: absolute;
+    transform-origin: top left;
+    width: 100vw;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    transition: all 0.4s ease-in;
+}
